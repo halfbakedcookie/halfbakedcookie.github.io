@@ -5,7 +5,7 @@ description: "View the results of JSHint on your Jenkins CI evironment"
 modified: 2014-10-20
 tags: [JavaScript, Jenkins, CI, JSHint, GruntJS]
 image:
-  feature: images/Jenkins_Grunt_Logos.jpg
+  feature: post01/Jenkins_Grunt_Logos.jpg
 comments: true
 share: true  
 ---
