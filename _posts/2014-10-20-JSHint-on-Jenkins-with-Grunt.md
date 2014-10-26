@@ -19,3 +19,9 @@ My idea was as follows:
 2.  Execute it once the build completes.
 3.  Find a plugin to easily view results.
 
+For the purposes of this tutorial I would be adding 
+
+### 1.   Install JSHint on Grunt
+
+Before JSHint is installed on Grunt, we need to install Grunt. Grunt runs a top of NodeJS, if NodeJS is not installed on your system, please download and install from [here](nodejs.org/download/).
+Assuming the Node exists on your system, we move on to installing Grunt.
