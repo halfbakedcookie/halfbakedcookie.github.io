@@ -18,8 +18,10 @@ My idea was as follows:
 1.  Install JSHint on [Grunt](http://www.gruntjs.com).
 2.  Execute it once the build completes.
 3.  Find a plugin to easily view results.
+<br/>
+<br/>
 
-For the purposes of this tutorial I would be adding 
+For the purposes of this tutorial I would be integrating this to a .NET web application.
 
 ### 1.   Install JSHint on Grunt
 
