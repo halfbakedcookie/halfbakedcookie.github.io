@@ -1,19 +1,19 @@
 title:            Sabry Moulana
-description:      Describe your website here.
+description:      Trials and tribulations of a JavaScript Developer.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://halfbakedcookie.github.io
+url:              http://halfbakedcookie.sabrym.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Sabry Moulana
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter: @sabry1991
   facebook:       
   github:         
   stackexchange:  
