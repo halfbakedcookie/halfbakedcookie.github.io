@@ -26,4 +26,7 @@ For the purposes of this tutorial I would be integrating this to a .NET web appl
 ### 1.   Install JSHint on Grunt
 
 Before JSHint is installed on Grunt, we need to install Grunt. Grunt runs a top of NodeJS, if NodeJS is not installed on your system, please download and install from [here](nodejs.org/download/).
-Assuming the Node exists on your system, we move on to installing Grunt.
+Assuming the Node exists on your system, we move on to installing Grunt. There are two options when deciding to install Grunt, you could either install it globally or specific to the project. 
+For the purposes of this post we just install grunt globally. 
+
+ 
