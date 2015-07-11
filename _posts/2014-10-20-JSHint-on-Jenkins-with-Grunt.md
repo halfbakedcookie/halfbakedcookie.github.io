@@ -34,3 +34,9 @@ Assuming the Node exists on your system, we move on to installing Grunt.
 {% highlight css %}
 npm install -g grunt-cli
 {% endhighlight %}
+
+Now navigate to your project root directory and install Grunt
+
+{% highlight css %}
+npm install grunt -save -dev
+{% endhighlight %}
