@@ -38,5 +38,5 @@ npm install -g grunt-cli
 If you are running Node for the first time, then chances are that your project does not have node initialized, this [link](https://docs.npmjs.com/cli/init) shows you how it's done. Now navigate to your project root directory and install Grunt
 
 {% highlight css %}
-npm install grunt -save -dev
+npm install grunt --save-dev
 {% endhighlight %}
