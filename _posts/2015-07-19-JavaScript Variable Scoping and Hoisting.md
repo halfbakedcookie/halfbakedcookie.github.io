@@ -1,3 +1,15 @@
+---
+layout: post
+title: JavaScript Variable Scoping and Hoisting
+description: "Getting to know variable scoping and hoisting"
+modified: 2015-09-19
+tags: [JavaScript]
+image:
+  feature: post02/768px-JavaScript-logo.png
+comments: true
+share: true  
+---
+
 I recently had a memory jog regarding variable hoisting. So I decided to verify my existing knowledge about this area and consolidate it. Finally put it down into words such that I do not forget it.
 
 *Scope*
