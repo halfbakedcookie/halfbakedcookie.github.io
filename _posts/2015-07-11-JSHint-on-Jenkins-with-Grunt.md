@@ -30,6 +30,7 @@ Assuming the Node exists on your system, we move on to installing Grunt.
 
  1. Install the Grunt CLI globally
  2. Install Grunt in your project location
+ 3. Install the JSHint Grunt plugin
 
 {% highlight css %}
 npm install -g grunt-cli
@@ -40,3 +41,9 @@ If you are running Node for the first time, then chances are that your project d
 {% highlight css %}
 npm install grunt --save-dev
 {% endhighlight %}
+
+{% highlight css %}
+npm install grunt-contrib-jshint --save-dev
+{% endhighlight %}
+
+### 2.   Install JSHint Reporting Plugin for Jenkins
