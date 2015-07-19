@@ -36,5 +36,5 @@ Seeing as I'm not that brilliant, I pulled information from a few places and the
 
 References : 
 
- 1. http://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting
- 2. http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html
+ 1. [http://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting](http://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting)
+ 2. [http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
