@@ -20,10 +20,9 @@ In other words hoisting refers to moving declarations to the top.
 > being there by default.
 > The following [fiddle](http://jsfiddle.net/vcjL9xyd/7/) illustrates how this works.
 
-Seeing as I'm not that brilliant, I pulled information from a few other places and they are listed below.
+Seeing as I'm not that brilliant, I pulled information from a few places and they are listed below.
+
 References : 
 
  1. http://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting
  2. http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html
-
-
