@@ -5,7 +5,7 @@ description: "Getting to know variable scoping and hoisting"
 modified: 2015-09-19
 tags: [JavaScript]
 image:
-  feature: post02/768px-JavaScript-logo.png
+  feature: post02/0702.sdt-github.jpg
 comments: true
 share: true  
 ---
